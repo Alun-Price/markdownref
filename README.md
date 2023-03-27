@@ -1,21 +1,15 @@
+# Markdown Reference
+
+This is just a quick markdown reference file.
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
   - [Headings](#headings)
-- [Headings 1](#headings-1)
-  - [Heading 2](#heading-2)
-    - [Heading 3](#heading-3)
-      - [Heading 4](#heading-4)
-        - [Heading 5](#heading-5)
-          - [Heading 6](#heading-6)
-  - [ ](#)
   - [Text Formating](#text-formating)
   - [Links](#links)
   - [Lists](#lists)
   - [Code Formatting](#code-formatting)
-        - [Javascript = \`\`\`js](#javascript--js)
-        - [Python = \`\`\`py](#python--py)
-        - [Code Block : \`\`\` no language](#code-block---no-language)
   - [Images](#images)
   - [Tables](#tables)
   - [Task Lists](#task-lists)
@@ -189,27 +183,4 @@ This is just a stylized blockquote but useful ...
 
 In VSCode, using the Markdown All in One, this is automated for you. Ctrl-Shift-P to open the Command Palette and search for Markdown All in One: Create Table of Contents. You may want to prune the tree created from the doc headings and move the TOC to the start of the document so you can use those useful links to quickly navigate..
 
-- [Table of Contents](#table-of-contents)
-  - [Headings](#headings)
-- [Headings 1](#headings-1)
-  - [Heading 2](#heading-2)
-    - [Heading 3](#heading-3)
-      - [Heading 4](#heading-4)
-        - [Heading 5](#heading-5)
-          - [Heading 6](#heading-6)
-  - [ ](#)
-  - [Text Formating](#text-formating)
-  - [Links](#links)
-  - [Lists](#lists)
-  - [Code Formatting](#code-formatting)
-        - [Javascript = \`\`\`js](#javascript--js)
-        - [Python = \`\`\`py](#python--py)
-        - [Code Block : \`\`\` no language](#code-block---no-language)
-  - [Images](#images)
-  - [Tables](#tables)
-  - [Task Lists](#task-lists)
-  - [Emojis](#emojis)
-  - [Hidden Comments](#hidden-comments)
-  - [Toggle](#toggle)
-  - [Callout](#callout)
-  - [Creating a Table of Contents \[TOC\]](#creating-a-table-of-contents-toc)
+Tip: turn off markdown.extension.toc.updateOnSave setting to allow you to remove headings that are not wanted but that get regenerated on save!!\*\*\*\*
